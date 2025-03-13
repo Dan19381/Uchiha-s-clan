@@ -1,8 +1,11 @@
 # Uchiha-s-clan
 ESPACE STAGE
 
-ADMINISTRATION : Cyprus Code
-ENCADREUR : Mr Root Lindow.
+ADMINISTRATION :
+      Cyprus Code
+
+ENCADREUR :
+      Mr Root Lindow.
 
 NOTES :
       Il est demandé à chaque stagiaire d'être sérieux, surtout en c'est qui concerne l'apprentissage proprement dite.
