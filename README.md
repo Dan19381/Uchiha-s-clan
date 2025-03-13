@@ -8,7 +8,6 @@ ENCADREUR :
       Mr Root Lindow.
 
 NOTES :
-      
       Il est demandé à chaque stagiaire d'être sérieux, surtout en c'est qui concerne l'apprentissage proprement dite.
       evitez de surcharger le dépôt avec des données inutiles, sur tout sans autorisation;
       le respect de l'ordre est strictement obligatoire;
